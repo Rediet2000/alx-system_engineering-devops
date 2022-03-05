@@ -1,25 +1,2 @@
 #!/bin/bash
 ln -s /bin/ls __ls__
-[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;13r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[13;1H";n -s /bin/ls __ls__" [New DIRECTORY][2;1H[1m[34m~                                                                                                        [3;1H~                                                                                                        [4;1H~                                                                                                        [5;1H~                                                                                                        [6;1H~                                                                                                        [7;1H~                                                                                                        [8;1H~                                                                                                        [9;1H~                                                                                                        [10;1H~                                                                                                        [11;1H~                                                                                                        [12;1H~                                                                                                        [m[13;88H0,0-1[9CAll[1;1H[?25h[?25l[13;78H[A[1;1H[13;78H  [1;1H[?25h[?25l[13;78H[B[1;1H[13;78H  [1;1H[?25h[?25l[13;78H[A[1;1H[13;78H  [1;1H[?25h[?25l[13;78H[A[1;1H[13;78H  [1;1H[?25h[?25l[13;78H^M[1;1H[13;78H  [1;1H[?25h[?25l[13;78H^Z[1;1H[13;1H
-[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;13r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[13;1H[1m[37m[41mE325: ATTENTION[m
-Found a swap file by the name "/var/tmp/ls __ls__.swp"
-[10Cowned by: root   dated: Fri Mar 04 17:41:02 2022
-[9Cfile name: ;n -s /bin/ls __ls__
-[10Cmodified: no
-[9Cuser name: root   host name: 193313b0503e
-[8Cprocess ID: 8938 (STILL RUNNING)
-While opening file ";n -s /bin/ls __ls__"
-      CANNOT BE FOUND
-(1) Another program may be editing the same file.  If this is the case,
-    be careful not to end up with two different instances of the same
-    file when making changes.  Quit, or continue with caution.
-[32m-- More --[?25h[m[13;1H[K[13;1H(2) An edit session for this file crashed.
-    If this is the case, use ":recover" or "vim -r ;n -s /bin/ls __ls__"
-    to recover the changes (see ":help recovery").
-    If you did this already, delete the swap file "/var/tmp/ls __ls__.swp"
-    to avoid this message.
-
-[32mSwap file "/var/tmp/ls __ls__.swp" already exists![m
-[32m[O]pen Read-Only, (E)dit anyway, (R)ecover, (Q)uit, (A)bort: [m[13;1H[K[13;1H
-[?25l[12;1H";n -s /bin/ls __ls__" [New DIRECTORY][1;1H[L[2;1H[1m[34m~                                                                                                        [3;1H~                                                                                                        [4;1H~                                                                                                        [5;1H~                                                                                                        [6;1H~                                                                                                        [7;1H~                                                                                                        [8;1H~                                                                                                        [9;1H~                                                                                                        [10;1H~                                                                                                        [11;1H~                                                                                                        [12;1H~                                                                                                        [m[13;1H[K[13;88H0,0-1[9CAll[1;1H[?25h[?25l[13;78H^Z[1;1H[13;1H
-[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t
