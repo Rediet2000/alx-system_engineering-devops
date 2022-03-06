@@ -1,5 +1,2 @@
 #!/bin/bash
--1 2-groups
-2 2-groups
-#!/bin/bash
 id -Gn
