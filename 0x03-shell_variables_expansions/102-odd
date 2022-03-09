@@ -1,0 +1,2 @@
+#!/bin/bash
+- |grep "something"|while read l_line
